@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gold Price Nowcasting from Cross-Asset Prices
 
 ## Overview

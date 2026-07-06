@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gold Price Nowcasting from Cross-Asset Prices
 
 ## Overview
@@ -97,3 +98,6 @@ The feature set is limited to four cross-asset prices and omits stronger economi
 | Statistics | statsmodels |
 | Visualization | matplotlib, seaborn |
 | Environment | Jupyter Notebook |
+=======
+# Gold_Prediction
+>>>>>>> e0b736e93916ffd0ffc4ddeff11e6e3e5ce58952
